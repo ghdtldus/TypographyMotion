@@ -29,7 +29,7 @@ Create the build:
 npm run build
 ```
 
-## Credits
+## Credits.
 
 - Recreation of the animation seen on http://www.danimorales-style.com/ designed by [Thibaud Allie](https://dribbble.com/thibaudallie).
 - Image by [Silviu Beniamin Tofan](https://unsplash.com/@tofansilviuben) from [Unsplash.com](https://unsplash.com/)
